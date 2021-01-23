@@ -1,2 +1,2 @@
 # hack-2-shell
-Tutorial for P&amp;DSS course.
+I followed instrutions from the PDSS [course website](https://eaton-lab.org/hack-the-planet/tutorials/2.1-path.html) to edit this readme file.
